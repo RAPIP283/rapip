@@ -8,6 +8,6 @@ Flower code tiktok trend
 Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 # Author
-- Flower Code : Md rapip
+- Flower Code :rapip md
 
 Thanks to rapip
